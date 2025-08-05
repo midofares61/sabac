@@ -14,11 +14,11 @@ const EmergencyBanner: React.FC = () => {
             <span className="mx-2 hidden md:block">—</span>
             <span>نعمل على مدار 24 ساعة</span>
             <a 
-              href="tel:+18005551234" 
+              href="tel:+01147458111" 
               className="ml-4 flex items-center font-bold hover:underline"
             >
               <Phone className="h-4 w-4 mr-1" />
-              <span>800-555-1234</span>
+              <span>01147458111</span>
             </a>
           </div>
         </div>

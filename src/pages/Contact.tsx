@@ -83,11 +83,11 @@ const Contact: React.FC = () => {
             </p>
             <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-6">
               <a 
-                href="tel:+18005551234"
+                href="tel:+201004481311"
                 className="btn btn-accent text-lg flex items-center"
               >
                 <Phone className="mr-2 h-5 w-5" />
-                اتصل ب 800-555-1234
+                اتصل ب 01004481311
               </a>
               <div className="flex items-center text-white">
                 <Clock className="mr-2 h-5 w-5 text-accent-400" />
@@ -113,12 +113,12 @@ const Contact: React.FC = () => {
             <div>
               <h3 className="text-lg font-bold mb-1">رقم الهاتف</h3>
               <p className="text-neutral-700 mb-1">خدمة العملاء:</p>
-              <a href="tel:+18005551234" className="text-primary-600 font-medium hover:text-primary-800 transition-colors">
-                800-555-1234
+              <a href="tel:+201004481311" className="text-primary-600 font-medium hover:text-primary-800 transition-colors">
+                01004481311
               </a>
               <p className="text-neutral-700 mt-2 mb-1">خط الطوارئ:</p>
-              <a href="tel:+18005554321" className="text-accent-600 font-medium hover:text-accent-800 transition-colors flex items-center">
-                800-555-4321
+              <a href="tel:+201147458111" className="text-accent-600 font-medium hover:text-accent-800 transition-colors flex items-center">
+                01147458111
                 <AlertTriangle className="ml-2 h-4 w-4" />
               </a>
             </div>
@@ -213,11 +213,11 @@ const Contact: React.FC = () => {
               </p>
             </div>
             <a 
-              href="tel:+18005554321" 
+              href="tel:+201147458111" 
               className="btn bg-white text-accent-700 hover:bg-accent-50 text-lg flex items-center px-8"
             >
               <Phone className="mr-2 h-6 w-6" />
-              <span className="font-bold">اتصل ب 800-555-4321</span>
+              <span className="font-bold">اتصل ب 01147458111</span>
             </a>
           </div>
         </div>

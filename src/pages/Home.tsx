@@ -104,9 +104,9 @@ const Home: React.FC = () => {
               احجز الخدمة
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Link>
-              <a href="tel:+18005551234" className="btn bg-white text-primary-900 hover:bg-primary-50 text-lg flex items-center">
+              <a href="tel:+201004481311" className="btn bg-white text-primary-900 hover:bg-primary-50 text-lg flex items-center">
                 <Phone className="mr-2 h-5 w-5 text-primary-600" />
-                اتصل بـ 800-555-1234
+                اتصل بـ 01004481311
               </a>
             </div>
             <div className="mt-12 flex items-center space-x-6 space-x-reverse">
@@ -254,7 +254,7 @@ const Home: React.FC = () => {
               <Link to="/contact" className="btn btn-primary">
               احجز الخدمة
               </Link>
-              <a href="tel:+18005551234" className="btn bg-neutral-200 text-primary-900 hover:bg-neutral-300 flex items-center justify-center">
+              <a href="tel:+201004481311" className="btn bg-neutral-200 text-primary-900 hover:bg-neutral-300 flex items-center justify-center">
                 <Phone className="mr-2 h-5 w-5" />
                 اتصل بنا الآن
               </a>

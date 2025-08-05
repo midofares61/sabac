@@ -69,11 +69,11 @@ const Header: React.FC = () => {
               <span className="text-sm">24/7 خدمة</span>
             </div>
             <a 
-              href="tel:+18005551234" 
+              href="tel:+201004481311" 
               className="btn btn-emergency flex items-center"
             >
               <Phone className="h-4 w-4 mr-2" />
-              <span>800-555-1234</span>
+              <span>01004481311</span>
             </a>
           </div>
 
@@ -145,11 +145,11 @@ const Header: React.FC = () => {
               <span>24/7 Emergency Service</span>
             </div>
             <a 
-              href="tel:+18005551234" 
+              href="tel:+201004481311" 
               className="btn btn-emergency w-full justify-center"
             >
               <Phone className="h-5 w-5 mr-2" />
-              <span>800-555-1234</span>
+              <span>01004481311</span>
             </a>
           </div>
         </div>

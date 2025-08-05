@@ -106,8 +106,8 @@ const Footer: React.FC = () => {
                 <Phone className="h-5 w-5 mr-3 mt-1 text-accent-400" />
                 <div>
                   <p className="font-bold text-white">خط الطوارئ</p>
-                  <a href="tel:+18005551234" className="text-primary-100 hover:text-white transition-colors">
-                    800-555-1234
+                  <a href="tel:+201004481311" className="text-primary-100 hover:text-white transition-colors">
+                    01004481311
                   </a>
                 </div>
               </li>
